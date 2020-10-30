@@ -38,7 +38,6 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.2.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.2'
-    implementation 'com.carto:carto-mobile-sdk:4.3.3-rc.1@aar'
 
     testImplementation 'junit:junit:4.+'
 
